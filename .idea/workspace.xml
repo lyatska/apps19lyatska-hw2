@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccc96a3e-fa0a-4dd2-a245-7e2f1454c792" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1T6HskWEM5Aa9f9WXMa6Seu5uQ1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ImmutableArrayListTest">
+    <configuration name="ImmutableArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImmutableCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.edu.ucu.collections.immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.edu.ucu.collections.immutable" />
+      <option name="MAIN_CLASS_NAME" value="ua.edu.ucu.collections.immutable.ImmutableArrayListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmutableArrayListTest.testListAddIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImmutableCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.edu.ucu.collections.immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.edu.ucu.collections.immutable" />
+      <option name="MAIN_CLASS_NAME" value="ua.edu.ucu.collections.immutable.ImmutableArrayListTest" />
+      <option name="METHOD_NAME" value="testListAddIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmutableArrayListTest.testListAddIndexOutOfRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImmutableCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.edu.ucu.collections.immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.edu.ucu.collections.immutable" />
+      <option name="MAIN_CLASS_NAME" value="ua.edu.ucu.collections.immutable.ImmutableArrayListTest" />
+      <option name="METHOD_NAME" value="testListAddIndexOutOfRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmutableLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImmutableCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.edu.ucu.collections.immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.edu.ucu.collections.immutable" />
+      <option name="MAIN_CLASS_NAME" value="ua.edu.ucu.collections.immutable.ImmutableLinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest.testStack2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImmutableCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.edu.ucu.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.edu.ucu.collections" />
+      <option name="MAIN_CLASS_NAME" value="ua.edu.ucu.collections.StackTest" />
+      <option name="METHOD_NAME" value="testStack2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ImmutableArrayListTest" />
+        <item itemvalue="JUnit.ImmutableLinkedListTest" />
+        <item itemvalue="JUnit.ImmutableArrayListTest.testListAddIndexOutOfRange" />
+        <item itemvalue="JUnit.ImmutableArrayListTest.testListAddIndex" />
+        <item itemvalue="JUnit.StackTest.testStack2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccc96a3e-fa0a-4dd2-a245-7e2f1454c792" name="Default Changelist" comment="" />
+      <created>1572773833118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572773833118</updated>
+      <workItem from="1572773840089" duration="18400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
